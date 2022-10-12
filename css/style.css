@@ -296,10 +296,10 @@ section{
     border-radius: 5rem;
 }
 .about .row .progress .progress-bar-1-1 span{
-    width: 90%;
+    width: 98%;
 }
 .about .row .progress .progress-bar-1-2 span{
-    width: 75%;
+    width: 95%;
 }
 .about .row .progress .progress-bar-1-3 span{
     width: 80%;
@@ -311,7 +311,7 @@ section{
     width: 15%;
 }
 .about .row .progress .progress-bar-2-3 span{
-    width: 10%;
+    width: 50%;
 }
 
 /* ==== services section ===== */
